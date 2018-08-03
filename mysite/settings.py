@@ -81,7 +81,7 @@ DATABASES = {
 	'ENGINE': 'django.db.backends.mysql',
         'NAME': 'swkedb',
         'USER': 'root',
-        'PASSWORD':'132418',
+        'PASSWORD':'360481',
         'HOST': 'localhost',
         'PORT':'', 	
     }
